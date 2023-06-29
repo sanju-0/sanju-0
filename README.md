@@ -51,6 +51,10 @@ const sanju = {
 ⏳  Longest streak is 15 days
 <!-- TODO-IST:END -->
 
+# My GitHub contributions as a Game :)
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/sanju-0.gif?z=6)](https://github.com/sanju-0)
+
 <!--<br  />
 
 📈 My Github Stats
