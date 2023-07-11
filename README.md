@@ -22,17 +22,17 @@
 const sanju = {
     pronouns: "She" | "Her",
     code: ["C++", "C", "HTML", "CSS", "JavaScript"],
-    askMeAbout: ["Web dev", "tech", "Writer", "Foodiee"],
+    askMeAbout: ["Web dev", "DSA", "Tech", "Writer", "Foodiee"],
     technologies: {
         backEnd: {
             js: ["Node"],
         },
     },
-    AboutMyself: "I am an Undergraduate pursuing B.Tech (ECE) from IGDTUW. I am a coding enthusiast.",
-    intresedIn: "I am an enthusiast of Full Stack Web Development or Web Designing and also, have an interest in Cyber Security.",
-    openSource: "🚀 I am also an open-source enthusiast. I love how collaboration and knowledge sharing happened through open-source communities.",
-    upcomingPlan: "Upcoming time I am also planning to start an open source community ⭐.",
-    funFact: "Every Fact became a Fun Fact when you read facts in a funny mood 😄.",
+    AboutMyself: "I am an undergraduate student pursuing a B.Tech (ECE) degree from IGDTUW. I have a passion for coding.",
+    intresedIn: "I am enthusiastic about Full Stack Web Development and Web Designing. Additionally, I have a keen interest in Cyber Security.",
+    openSource: "🚀 I am also an enthusiast of open-source projects. I admire how collaboration and knowledge sharing occurs within open-source communities",
+    upcomingPlan: "In the near future, I am planning to establish an open-source community ⭐.",
+    funFact: "Every fact becomes amusing when you read it with a sense of humor 😄.",
 };
 ```  
 <br />
