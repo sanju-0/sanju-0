@@ -6,13 +6,13 @@
 
 <h2><img src="https://pic.funnygifsbox.com/uploads/2020/06/funnygifsbox.com-2020-06-30-09-10-22-10.gif" width="30"/> I'm Sanju !! Like to Connent me ?? <img src="https://media.giphy.com/media/26ufplp8yheSKUE00/giphy.gif" width="35"></h2>
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
-- Active on <a href="https://leetcode.com/Sanju_12/">LeetCode</a> 😍
+- Active on <a href="https://neetcode.io/roadmap">NeetCode RoadMap</a> 😍
 <br />
 - Sharing updates on <a href="https://www.linkedin.com/in/sanju001/">LinkedIn</a> 😇
 <br />
 - Chilling on <a href="https://twitter.com/Sanju_120"> Twitter</a> 💝
 <br />
-- Learning lit bit on <a href="https://www.codechef.com/users/sanju_1203"> CodeChef</a>🙃
+- Doing Coding on <a href="https://leetcode.com/Sanju_12/"> LeetCode</a> 💻
 <br />
 <br />
 
