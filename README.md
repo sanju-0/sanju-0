@@ -21,18 +21,18 @@
 ```javascript
 const sanju = {
     pronouns: "She" | "Her",
-    code: ["C++", "C", "HTML", "CSS", "JavaScript"],
+    code: ["C++", "C", "HTML", "CSS", "Angular", "JavaScript"],
     askMeAbout: ["Web dev", "DSA", "Tech", "Writer", "Foodiee"],
     technologies: {
         backEnd: {
             js: ["Node"],
         },
     },
-    AboutMyself: "I am an undergraduate student pursuing a B.Tech (ECE) degree from IGDTUW. I have a passion for coding.",
-    intresedIn: "I am enthusiastic about Full Stack Web Development and Web Designing. Additionally, I have a keen interest in Cyber Security.",
-    openSource: "🚀 I am also an enthusiast of open-source projects. I admire how collaboration and knowledge sharing occurs within open-source communities",
-    upcomingPlan: "In the near future, I am planning to establish an open-source community ⭐.",
-    funFact: "Every fact becomes amusing when you read it with a sense of humor 😄.",
+    AboutMyself: "Hey there! I’m Sanju — a Software Engineer who traded classroom assignments for real-world code. Currently building, breaking, and fixing cool stuff 💻",
+    intresedIn: "Currently vibing with Full Stack Web Development & Web Design. Also geeking out over Cybersecurity because… who doesn’t like breaking (and fixing) things? 😉",
+    openSource: "🚀 Big believer in open-source. Nothing’s cooler than a bunch of people across the globe building awesome stuff together just for the love of it.",
+    upcomingPlan: "On a mission to kickstart an open-source community ⭐ — a space for coding, collaboration, and maybe a little chaos (the good kind).",
+    funFact: "My code works better after coffee… or maybe I just believe it does. ☕😄",
 };
 ```  
 <br />
@@ -46,7 +46,7 @@ const sanju = {
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  140 Karma Points           
-🌸  Completed 15 tasks in '20 year looking forward to do more in '21 year           
+🌸  Completed 15 tasks in '22 years looking forward to doing more in '23 year           
 ✅  Completed 150 tasks so far           
 ⏳  Longest streak is 15 days
 <!-- TODO-IST:END -->
